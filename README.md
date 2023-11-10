@@ -30,8 +30,6 @@ The provided dataset contains behavior data from the music app "Sparkify". Pyspa
 
 **final_df_signle.parquet** if you want to skip most steps and just load the final df that was used for modeling, this is your pick.
 
-**cv_model.model** if you want to skip the fitting of the model and just have a look at the results, this is your pick.
-
 
 
 ## Result
